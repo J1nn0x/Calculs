@@ -42,6 +42,7 @@ namespace Calculs
                             {
                                 if (choix != 0)
                                 {
+                                    //Valeurs aléatoires
                                     val1 = rand.Next(1, 10);
                                     val2 = rand.Next(1, 10);
                                     if (choix == 1)
